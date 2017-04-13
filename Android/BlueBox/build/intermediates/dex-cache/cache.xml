@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\.android\build-cache\1a234f33a19f7bd9f82bce5e4a0e4ceda972a374\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\classes_781b0e82d44c97f7f7905616f22935f548c6f196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9679de982fca81d396640d81a07236b91ac1c3a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\.android\build-cache\fbf692f648aa38c8f32627c2df7aea31655fd223\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\classes_545e86c154201c6d412e12aa2cfbd2add648a356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\.android\build-cache\cdd32ce93465f00c34c3b3f71c625850011ef1f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\classes_d18df68b83cdc78bcc74bcc48d98d5a1c4fd252c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\.android\build-cache\ad1f1ae38fb36c63addf57eb458a92fd50a2849f\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8cb848e0049d7aa84a77e9a3c52738d8c09fa542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\.android\build-cache\8cbc2e60c8c47ecb462dee5655e1a94710dbf739\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\classes_2179673a8c6109e5a8798643d7cc2e83d81f0c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\.android\build-cache\ad1f1ae38fb36c63addf57eb458a92fd50a2849f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\classes_db9bd9b7caae351de223bbf2a7ca1161a63093e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Loveen Rose Paul\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\AndroidStudioProjects\BlueBox\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4c01545613c403d75ea01c45653eea16ce4a6813.jar" />
+    </item>
+
+</items>
